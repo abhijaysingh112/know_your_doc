@@ -1,8 +1,8 @@
-📚 Know Your Doc
+# 📚 Know Your Doc
 
 Know Your Doc is an AI-powered Streamlit app that allows you to upload any PDF document, process its contents into vector embeddings, and then ask natural language questions about the document. The app uses FAISS for similarity search, Sentence Transformers for embeddings, and Google Gemini models for contextual answering.
 
-✨ Features
+# ✨ Features
 
 📄 Upload & Process PDF – Extracts text from PDFs and splits into chunks
 
@@ -14,7 +14,7 @@ Know Your Doc is an AI-powered Streamlit app that allows you to upload any PDF d
 
 📋 Suggested Q&A – Example prompts to help you get started
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Streamlit
  – UI framework
